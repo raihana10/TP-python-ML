@@ -1,0 +1,1 @@
+from .models import Personne, Etudiant, EtudiantGI
